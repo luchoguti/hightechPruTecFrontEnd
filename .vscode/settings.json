@@ -1,0 +1,7 @@
+{
+    "javascript.format.enable": false,
+    "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "html.format.preserveNewLines": false,
+    "html.format.enable": false,
+    "html.validate.styles": false
+}

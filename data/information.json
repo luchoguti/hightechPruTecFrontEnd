@@ -1,0 +1,96 @@
+{
+    "data":{
+        "names":{
+            "var": "names",
+            "label": "First name",
+            "value": "",
+            "type":"userBasicData",
+            "validate": true
+        },
+        "last_names":{
+            "var": "last_names",
+            "label": "Last name",
+            "value": "",
+            "type":"userBasicData",
+            "validate": true
+        },
+        "type_identification_id":{
+            "var": "type_identification_id",
+            "label": "Type Identification",
+            "value": "",
+            "type":"userBasicData",
+            "validate": true
+        },
+        "number_identification":{
+            "var": "number_identification",
+            "label": "Number Identification",
+            "value": "",
+            "type":"userBasicData",
+            "validate": true
+        },
+        "email":{
+            "var": "email",
+            "label": "Email",
+            "value": "",
+            "type":"userBasicData",
+            "validate": true
+        },
+        "password":{
+            "var": "password",
+            "label": "Password",
+            "value": "",
+            "type":"userBasicData",
+            "validate": true
+        },
+        "password_confirm":{
+            "var": "password_confirm",
+            "label": "Password Confirm",
+            "value":"",
+            "type":"dataHidden",
+            "validate": true
+        },
+        "name_card":{
+            "var": "name_card",
+            "label": "Cardholder name",
+            "value":"",
+            "type":"creditCard",
+            "validate": true
+        },
+        "number_card":{
+            "var": "number_card",
+            "label": "Card number",
+            "value":"",
+            "type":"creditCard",
+            "validate": true
+        },
+        "expiry_card":{
+            "var": "expiry_card",
+            "label": "MM/YY",
+            "value":"",
+            "type":"creditCard",
+            "validate": true
+        },
+        "security_card":{
+            "var": "security_card",
+            "label": "CVV",
+            "value":"",
+            "type":"creditCard",
+            "validate": true
+        },
+        "id":{
+            "var": "id",
+            "label": "",
+            "value":"N/A",
+            "type":"userBasicData",
+            "validate": false
+        },
+        "id_credit_card":{
+            "var": "id_credit_card",
+            "label": "",
+            "value":"N/A",
+            "type":"creditCard",
+            "validate": false
+        }
+    },
+"errors":{}
+}
