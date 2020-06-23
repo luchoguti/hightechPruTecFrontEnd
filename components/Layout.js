@@ -1,6 +1,6 @@
 import { Fragment } from 'react';
 import Head from 'next/head';
-import Navigation from './navigation';
+import Navigation from '../components/Navigation';
 
 const Layout = (props) => {
     return  (
